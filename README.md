@@ -1,11 +1,12 @@
-##  <p style="font-size: 50px;"> Welcome to my GitHub ! </p>　<img alt="GIF" src="https://github.com/suzusou/suzusou/blob/main/pepefrg-4.gif" width="10%" />
+##  Welcome to my GitHub !　<img alt="GIF" src="https://github.com/suzusou/suzusou/blob/main/pepefrg-4.gif" width="10%" />
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzusou&show_icons=true&theme=dark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=suzusou&theme=dark&show_icons=ture" />
-</p> 
+
 <a href="https://github.com/suzusou/suzusou">
     <img src="https://komarev.com/ghpvc/?username=suzusou&color=lightgrey"/>
     </a>
+  </p> 
 
 
 
