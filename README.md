@@ -8,6 +8,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzusou&theme=dark" />
 </a>
 
-<img alt="status" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suzusou&theme=dark" />
+<img alt="status" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suzusou&theme=default" />
 
  <img src="https://komarev.com/ghpvc/?username=suzusou&color=lightgrey"/>
