@@ -1,4 +1,4 @@
-#  Welcome to my GitHub !　<img alt="GIF" src="https://github.com/suzusou/suzusou/blob/main/pepefrg-4.gif" width="7%" />
+#  Welcome to my GitHub !　<img alt="GIF" src="https://github.com/suzusou/suzusou/blob/main/pepefrg-4.gif" width="%" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=suzusou&count_private=true&show_icons=true&theme=while" />
