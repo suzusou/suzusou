@@ -3,6 +3,7 @@
 
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzusou&theme=whileshow_icons=ture" />
+    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suzusou&show_icons=true&theme=dark" />
 
 <img alt="status" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suzusou&theme=default" />
 
