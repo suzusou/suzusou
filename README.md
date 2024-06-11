@@ -8,3 +8,4 @@
   <h3>Trophies</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=suzusou&column=3&margin-w=15&margin-h=15" />
  
+[MyBlog](https://bellfat.com/ja-gb/)
